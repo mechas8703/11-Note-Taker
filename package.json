@@ -1,14 +1,23 @@
 {
-  "name": "note-taker",
+  "name": "11-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechas8703/11-Note-Taker.git"
+  },
+  "author": "Maria Cardona",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mechas8703/11-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/mechas8703/11-Note-Taker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.2"
   }
 }
