@@ -29,7 +29,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Note Taker
-![Note Taker](./assets/capture1)
+![Note Taker](./assets/capture1.PNG)
 
 ### App working example
 
