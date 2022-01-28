@@ -30,4 +30,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### App working example
 
-![Heroku Deplyed](https://stormy-anchorage-52037.herokuapp.com/notes)
+[Heroku Deplyed](https://stormy-anchorage-52037.herokuapp.com/)
