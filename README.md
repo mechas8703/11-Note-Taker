@@ -30,5 +30,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### App working example
 
-[Heroku Deployed](https://stormy-anchorage-52037.herokuapp.com/)
-[Repo](https://github.com/mechas8703/11-Note-Taker)
+* [Heroku Deployed](https://stormy-anchorage-52037.herokuapp.com/)
+* [Repo](https://github.com/mechas8703/11-Note-Taker)
